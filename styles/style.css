@@ -170,6 +170,11 @@ footer h3::before {
     vertical-align: middle;
 }
 
+.footer2 {
+    position: absolute;
+    bottom: 0;
+}
+
 
 
 /* about */
@@ -177,6 +182,12 @@ footer h3::before {
     margin-left: 80px;
     width: 60%;
     margin-top: 20%;
+}
+.info h1 {
+    font-size: 2.5vw;
+}
+.info p {
+    font-size: 1.5vw;
 }
 .info h1::before {
     content: url('/img/computer-small.png');

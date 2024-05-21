@@ -1,37 +1,42 @@
 # Portfolio
 
-English:
 Oblig 1:
-Reflections on learning outcomes, advantages and disadvantages of BEM and design systems, and how these concepts were applied in the assignment.
+Working with oblig 1 was fun because we made a remake of an existing website. It was interesting to see if we were able to do it, and with the design system it was a little easier. I liked that we had the design system to follow so the structure and colors were correct. However while following a system there is not much room for creativity and making dessitions. I learned a lot from this assignment, because it was the first time I used both SASS and design systems. I found systems to be good for consistency, it helps keep the pages alike across different platforms. By having the same interaction patterns it is easier for users to navigate the website. Also a good design system includes accessibility guidelines which is good. The design system was mostly applied to the cards, buttons and inputs, also the colors and icons.
 
-All obligs:
-Highlight your learning outcomes and what you would do differently if you could start over. Explain what you learned from implementing the assignment and reflect on the main advantages, disadvantages, and application of the methods, skills, and concepts used in the project.
+In this assignment it was also the first time I used BEM in a bigger scale. At first I did not understand why this tecknique was nessesary. Then when we learned SASS I really liked the concept. With using BEM it is easier to read the code, it is easier to see what sections of code belongs together. And with using BEM the SASS is also easier to read and I like that I can use the "&__" to connect the sections. For this project I found it hard to understand BEM and how to use it, but now that I have used it this whole semester I have learned it more and like it.
 
-Oblig 2 og 3:
-• Main Contributions: Describe your main contributions to the
-group assignment.
-• Main Changes: Detail the main changes made in the improved
-version and explain why these changes were made.
-• Accessibility: Reflect on accessibility considerations in your
-projects.
-• Sustainability: Reflect on sustainability considerations in your projects.
-
-• Reflections should demonstrate thoughtful consideration of learning outcomes, methodologies employed, and areas for potential enhancement.
+We had almost never used github either which was difficoult, it was hard do navigate through github when not knowing it to well, but by using it more and more I now used it way better. There were conflicts we had to learn how to solve, learn how to merge and also to upload the page to github pages. I did not like github for this first assignment because I found it hard to understand it.
 
 
 
+Oblig 2:
+For oblig 2 I worked together with Toril, we worked great together and met a lot. Therfore we did most of the assignment together, Toril added most of the text and the CSS drawing, and I added most of the animations, other than that we did the rest while sitting together.
 
-Norsk:
-Oblig 1:
-Refleksjoner over læringsutbytte, fordeler og ulemper med BEM og designsystemer, og hvordan disse konseptene ble anvendt i oppgaven.
+I have now done a lot of changes, the biggest change is how the SVGs are implemented. We did not know how to implement all those SVGs correctly so we did what we thought was correct. Now while having talked with other students and research more I found a better way. At first we had all the SVGs as long paths dirrectly from illustrator, but with all that code it is hard to work with. I found out that I could implement them as images so that is what I have changed now. I have kept some paths so it is easier to animate, but by implementing the static SVGs as images instead, the code is so much shorter which is also more sustanable. I liked our animations so I kept most of them as they were except for the car which I have only changed the path it "drives" slightly, now it does not crash in to the moon. Also small changes to some text to get it responsive.
 
-Alle obliger:
-Fremhev læringsutbyttet ditt og hva du ville gjort annerledes hvis du kunne starte på nytt. Forklar hva du lærte fra å implementere oppgaven og reflekter over de viktigste fordelene, ulempene og anvendelsen av metodene, ferdighetene og konseptene som ble brukt i prosjektet.
+This assignment is not very accessibility friendly. There is no reduced motion added to this poster. Because this is a remake of an already existing poster there were not much we could change to make it more accessible. Although the text is easy to read because there is big contrast between text color and background color.
 
-Oblig 2 og 3:
-• Hovedbidrag: Beskriv dine hovedbidrag til gruppeoppgaven.
-• Hovedendringer: Detaljer de viktigste endringene som ble gjort i den forbedrede versjonen og forklar hvorfor disse endringene ble gjort.
-• Tilgjengelighet: Reflekter over tilgjengelighetshensyn i prosjektene dine.
-• Bærekraft: Reflekter over bærekrafthensyn i prosjektene dine.
+And as I mentioned earlier the changes I made have now made the website more sustainable because of much less code. I would not say that the website is very sustainable because of all the images, the whole poster is almost just images witch takes up a lot of memory.
 
-• Refleksjonene bør vise gjennomtenkte vurderinger av læringsutbytte, anvendte metoder og områder for potensielle forbedringer.
+I learned a lot from this assignment, like how to implement SVGs in different ways and how to simplify the paths from illustrator. We used BEM and SASS witch I learned better in this assignment that in the first. This was also the first time I animated, by having to animate in defferent ways I learend different methods and those who worked well and those who were less good. In the improved version I also had to work more with positioning and responsivness, this was something I have done before but its allways good to practice more on that.
+
+We used github for this assignment also, and got to understand how to use it much better that in oblig 1. Toril knew more about github than me so she teached me a lot. Now I understand why it is a great tool, and how to navigate throug, push and pull commits, mege and solve conflicts easier.
+
+While animating with different methods, I found the best way to be in CSS using @keyframes. Compared to the animations done in the HTML i found keyframes much more organized and clean. Things I would have done differently if I had more time to improve is to make something better with CSS drawing. So if I were to do this assignment from the beginning again, I would probbably have a more strict plan from the start and not just start implementing not knowing the best way to do it.
+
+
+
+Oblig 3:
+On oblig 3 I made all the SVGs in illustrator and implemented them either with images or with paths. Then I placed the different story slides in the order I liked. Afterwords I animated all the SVGs I wanted to have in motion. At the end the group together found text we found relevant to tell the story. While all this I tried to use BEM the correct way, and tried to keep a clean code both in HTML and in SASS. We implemented the intersection observer afterwards witch me and Nora did together.
+
+I was not completly satisfied with the assignment on delivery, but I did not have more time to correct everything at that time. Therefore I have made a lot of changes now. I made changes both from the feedback we got and from things I knew I wanted to change before. First I made myself a new storyboard witch changed the story from: why is fast fashion bad, and what can wee do about it, to: explaining what is fast fashion, why is it bad, and what can wee do about it. From there I had to remove a page and add some new.
+
+I made new SVGs and changed all the text to follow the new storyboard. I also made a more capturing toppic and highlighted the important keywords. For the text I tried to have as little text as possible while it still being describing enough. I changed some colors for some of the slides after feedback, like making the landfield more dark and the kids skin color in different colors. The last page was also very boring and had a lot of text, so I upgraded that page by making a new background and shorten the text, rearanging some elements and adding cool bulletpoints instead of regulars. There was also one thing I had missed to implemet to the assignment, reduced motion, I did not know that that was something we were to do. So I have now also implemented this to most of the animations. Some of the animations are small and is not fast originally so those I have not added reduced motion to, but the biggest most visible animations I have changed.
+
+The accessibility of the page is now better because of adding reduced motion, but it could still be better. I have tried to add background to the text, but it can still be hard to read some places because of some elementns in the background. And more...
+
+I have also tried to make the page sustainable by using img for SVGs insted of paths, where possible, but the code is still very long. I would say that it is not the most sustainable page because of all the SVGs, and a lot of different colors. And more...
+
+This was the assignment I think I learn most from. I used BEM and SASS more so I feel like I am starting to use it in a good way. Also intersection observer I used for the first time, this was not used much so I would have to practice this more, but now I know what it is, and that it is good for sustainability. There were a lot of animations also in this assignment, so from what I learned in oblig 2 I only used @keyframes and gsap animations, and got to use them alot so I feel like I actually learned them. And with reduced motion, I did not even know what that was, and it is a great and important thing to implement.
+
+If I had more time now or were to start this assignment from scratch I would have the same theme because this is something I actually care about, but I would make the different pages be more connected. I would have a connection to every slide and change the way I tell the story, so it feels more like a story website rather than just an information website. I would also test out horizontal scroll and add more interactivity to the page, where users can click on some elements and an animation would be triggered, or a text information box would appear.
