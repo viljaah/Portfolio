@@ -52,7 +52,7 @@ a:hover {
   margin-right: auto;
 }
 .header__list li:first-child a::before {
-  content: url("../img/computer-small.png");
+  content: url("../img/computer-small.png"); /* https://www.svgrepo.com/svg/277463/programming-monitor */
   display: inline-block;
   margin-right: 15px;
   vertical-align: middle;
@@ -169,7 +169,7 @@ footer a {
   font-size: 1.5vw;
 }
 footer h3::before {
-  content: url("../img/envelope.png");
+  content: url("../img/envelope.png"); /* https://pixabay.com/vectors/envelope-icon-email-blue-3152053/ */
   display: inline-block;
   margin-right: 15px;
   vertical-align: middle;
